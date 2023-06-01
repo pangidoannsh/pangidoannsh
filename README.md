@@ -10,7 +10,7 @@ Hi, I'm Pangidoan NSH!
 
 
 - Specializing in Software developer.
-- How to reach me: <a href="mailto:pangidoanhrp13@gmail.com">📫</a>
+- How to reach me: <a href="mailto:pangidoanhrp13@gmail.com">📧</a>
 
 Happy Hacking!
 <hr>
