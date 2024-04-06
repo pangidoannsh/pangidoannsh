@@ -5,7 +5,7 @@ Hi, I'm Pangidoan NSH!
 <img src="https://komarev.com/ghpvc/?username=pangidoannsh&label=Profile%20Views&color=238636&style=flat" align='right' alt="pangidoannsh" />
 <br/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Information+Technology+Student;Software+Enthusiast&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Informatics+Engineering+Student;Software+Enthusiast&center=true&width=380&height=45"></a>
 </p>
 
 
